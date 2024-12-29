@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-yoon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-yoon) <br/>
 🚀 Skills
 https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
