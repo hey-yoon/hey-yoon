@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-yoon)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-yoon)
 
 <!--
 **hey-yoon/hey-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
