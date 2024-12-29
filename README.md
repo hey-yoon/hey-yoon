@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47BBF7&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%86%8C%ED%86%B5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B0%95%ED%98%9C%EC%9C%A4%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-yoon) 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hey-yoon&theme=prussian&card_width=490)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hey-yoon&card_width=480&card_height=245)](https://git.io/streak-stats)
 <br /><br />
 📝 Blog <br />
 [nald_end](https://nald-end.tistory.com/)
