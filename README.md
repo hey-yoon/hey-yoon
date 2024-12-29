@@ -2,8 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-yoon) <br /><br />
 
 🚀 Skills <br />
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 <!--
 **hey-yoon/hey-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
