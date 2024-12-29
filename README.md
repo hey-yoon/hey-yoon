@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-yoon) <br /><br />
+📝 Blog <br />
+[nald_end](https://nald-end.tistory.com/)
 
 🚀 Skills <br />
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
