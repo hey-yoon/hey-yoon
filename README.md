@@ -3,7 +3,7 @@
 <!--
 **hey-yoon/hey-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=#333333&height=10px&section=header&text=텍스트&fontSize=7px" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-yoon)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
